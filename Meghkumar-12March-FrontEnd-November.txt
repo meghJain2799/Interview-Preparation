@@ -1,0 +1,30 @@
+Data structures 
+1. Problem 1: Two Sum
+2. Problem 2: COUNT THE NUMBER OF WORDS IN A STRING
+3. Problem 3: program to remove duplicate value from an array
+
+
+Communication Skills :
+1. Tell me about yourself in 2 sentences.
+
+2. Explain to your 95-year old grandmother what you do for a living.
+
+3. Use up to 5 sentences to sell me a pencil.
+
+4. Your colleague is publicly belittling your work achievements. What do you do?
+ 
+5. Do you prefer written or verbal communication?
+
+6.Which one is more important to you and why: to be a good listener or a good communicator?
+
+
+Mock Interview React
+1. What is React?
+
+2. What are the advantages of using React?
+
+3. What are the limitations of React?
+
+4. What is useState() in React?
+
+5. What are keys in React?
