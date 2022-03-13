@@ -1,0 +1,33 @@
+Data Structure Problems
+
+27. Remove Element
+53. Maximum Subarray
+66. Plus One
+
+
+Mock Interviews
+
+6. What is JSX?
+7. What are the differences between functional and class components?
+8. What is the virtual DOM? How does react use the virtual DOM to render the UI?
+9. What are the differences between controlled and uncontrolled components?
+10. What are props in React?
+
+
+Communication Skills
+
+7. Which one do you prefer and why: teamwork or working alone?
+
+
+8. How important are team events for you?
+
+9. Tell me how you would overcome a situation where a team is doing badly because 
+members aren’t getting along.
+
+
+10. Your teammates are all in agreement on how to approach a task but you disagree. 
+How do you react?
+
+11. What does team spirit mean to you and how would you go about building it?
+
+12. How would you deal with a teammate who wasn’t doing their share of work?
