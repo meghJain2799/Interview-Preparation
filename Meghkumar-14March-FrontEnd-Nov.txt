@@ -1,0 +1,26 @@
+14 March
+
+leetcode
+1. Single Number
+2. Last word of a string
+3. common prefix
+
+
+
+18. What is the most difficult change you’ve encountered in your career?
+
+19. Do you like surprises?
+
+20. How do you go about rearranging your schedule if something unplanned occurs?
+
+21. Give me an example of when you’ve had to deal with a short notice request.
+
+22. Do you like routine work?
+
+
+MocK Prep
+11. Explain React state and props.
+12. Explain about types of side effects in React component.
+13. What is prop drilling in React?
+14. What are error boundaries?
+15. What is React Hooks?
