@@ -1,0 +1,40 @@
+Communication
+
+23. Give me an example of when you’ve successfully solved a problem.
+I remember solving a problem when I was working in proprietory ship firm where my main work was to do handle all services related works related to insurance and there was one 
+prospect client. our firm was trying to get business from him but he was not agreeing as he thought that the insurance from LIC firm is not beneficial but one day as usual we tried 
+and we got a challenge that he wanted to get the claim of his dad but the issue was there was some name incorrection and it takes alot of efforts to handle this cases so in this case
+i went to head office of LIC and submitted relevant document and it usually takes  5 days for update but it took 10 days but and till the time i was going everyday to check and as soon as
+the update came i went to the branch from where it was taken and submiited the approval as well as other relevant details and we've done that in the span of 12 days where there are
+many cases which took 2-3 months. and we got the business as well of 2 lacs yearly.
+
+24. Give me an example of a time when you’ve had to be creative or unconventional in solving a problem.
+I already have shared one example when i was working reliance jio i still think that was the time we went out of the limits and helped the client to activate the plan.
+
+25. Tell me about a time when you had to analyze information to successfully solve a problem.
+the time when i was working for mahindra process where it was specifically mahindra holidays and you might be aware of plans and stuff so there it happened where the customer is saying he
+haven;t got the cashback wherea in system it was showing that he got so at that ti,me it took me 20 mins to exactly check each and every detail as well as cross verfiy to solve that issue.
+
+26. Tell me about a time you identified a problem and solved it in its early stages.
+I think in the same process when we used to get calls every month on 1st and 2nd where I wasn;t aware about all the details but due to lack of man power i was taking calls and suddenly got
+the call fron aclient that he made booking for a resort where it was for 3 nigghts and 4 days but I was in training and it was like recently i was going through the aritcle of that site
+that you can;t book for more than 2 nights and it could bbe problem when the customer is going thr and resort guys are saying them not to stay for more than 2 nights it could be an 
+social media escalation or any severe problem for mahindra holidays so I connected with my seniors and took the responsibility to call the client and inform him everyhing properly
+from start and luckily the customer was really good and I got it solved. 
+
+27. Describe a time when you had to solve a problem in a crisis.
+I remember the time when i was in my HSC and it was college fest and we wanted to make the presentation but almost at the end moment ive got to know that the person who had the 
+responsibility of bringing the presentation got some emergency and he haven,t shown up so we the other 3 guys went to IT lab just 30 mins before and ssly made the presentaion 
+and we got the compliments as welll for that. from the guest who came thr to see it.
+
+mock Inerview
+
+21. Explain Strict Mode in React.
+
+22. How to prevent re-renders in React?
+
+23. What are the different ways to style a React component?
+
+24. Name a few techniques to optimize React app performance.
+
+25. How to pass data between react components?
