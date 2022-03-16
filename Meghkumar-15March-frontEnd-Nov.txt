@@ -1,0 +1,20 @@
+Data Structure
+
+1. Maximum subArray
+2. Length of last word
+
+Individual Project
+https://github.com/meghJain2799/EmployeeCrud
+
+
+Mock Interview React
+
+16. Explain React Hooks.
+
+17. What are the rules that must be followed while using React Hooks?
+
+18. What is the use of useEffect React Hooks?
+
+19. Why do React Hooks make use of refs?
+
+20. What are Custom Hooks?
